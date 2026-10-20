@@ -1,6 +1,6 @@
 # Vitality UI Library
 
-Vitality is a configurable Roblox UI library for building polished interfaces with Lua.
+--Vitality is a konfigurativna UI librarija za Roblox
 
 **[Open the landing page](https://cueshut.github.io/vitremake/)**
 
